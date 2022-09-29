@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mac
-- 👀 I’m interested in full stack web development, game development, and fun coding challenges.
+- 👀 I’m interested in full stack web development, game development, and coding that challenges me to think in new ways.
 - 🌱 I’m currently advancing my knowledge in full stack web development
 - 💞️ I’m looking to collaborate on fun projects and opportunities to learn new things!
 - 📫 You can message me directly via my profile at https://www.linkedin.com/in/mac-mecoy-637122141/
