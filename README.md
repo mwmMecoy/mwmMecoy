@@ -5,8 +5,6 @@
 
 - 👨‍💻You can find my freelance portfolio here [https://mecoydev.netlify.app/](https://mecoydev.netlify.app/)
 
-- 💬 Ask me about **react, node, tailwind**
-
 - 📫 How to reach me **macmecoy@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
