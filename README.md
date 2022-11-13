@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mac Mecoy</h1>
 <h3 align="center">A passionate full-stack developer based in the midwest USA</h3>
 
-- 🔭 I’m currently working on [Formula Finder](https://github.com/mwmMecoy/FormulaFinder)
+- 🔭 I’m currently working on [Formula Finder](https://github.com/mwmMecoy/FormulaFinder), a full stack application helping families to find formula specific to their needs in local grocery inventories.
 
 - 👨‍💻You can find my freelance portfolio here [https://mecoydev.netlify.app/](https://mecoydev.netlify.app/)
 
