@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mac Mecoy</h1>
 <h3 align="center">A passionate full-stack developer based in the midwest USA</h3>
 
-- 🔭 I’m currently working on as a developer for a financial institution, managing their mobile app and utilizing Flutter
+- 🔭 I’m currently working as a developer for a financial institution, managing their mobile app and utilizing Flutter
 
 - 👨‍💻You can find my freelance portfolio here [https://mecoydev.netlify.app/](https://mecoydev.netlify.app/)
 
